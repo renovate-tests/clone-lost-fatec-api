@@ -1,1 +1,2 @@
-# clone-lost-fatec-api
+# lost-fatec-api
+Trabalho do professor fausto
